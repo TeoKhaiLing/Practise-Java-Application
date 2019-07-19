@@ -1,1 +1,1 @@
-# Practise-Java-Application-wth-database-
+# Practise-Java-Application
