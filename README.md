@@ -1,2 +1,2 @@
 # Practise-Java-Application
-without involvement of database
+There is 2 simple application without involvement of database.
